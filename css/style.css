@@ -72,7 +72,7 @@ header nav a{
 }
 
 header nav a:hover{
-    color: #f55827;
+    color: #3265EA;
  }
 
 header button{
@@ -213,8 +213,8 @@ header button:hover{
 }
 
 .s-hero .left .value .btns .btn-cart {
-    border-radius: 32px;
-    background-color: #f55827;
+    border-radius: 5px;
+    background-color: #3265EA;
     padding: 1.6rem 4rem;
     color: #fff;
     font-weight: 500;
@@ -223,8 +223,8 @@ header button:hover{
 }
 
 .s-hero .left .value .btns .btn-cart:hover{
-    background-color: #cf3302;
-    box-shadow: 0px 0px 0px 3px rgba(245, 88, 39, 0.30);
+    background-color: #3265EA;
+    box-shadow: 0px 0px 0px 3px rgba(39, 77, 245, 0.3);
 }
 
 
