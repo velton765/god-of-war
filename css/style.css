@@ -122,7 +122,7 @@ header button:hover{
 
 .s-hero .right{
     width: 100%;
-    max-width: 9.5rem;
+    max-width: 25.5rem;
     text-align: right;
     display: flex;
     flex-direction: column;
@@ -140,7 +140,7 @@ header button:hover{
 
 .s-hero .right .square{
     border-radius: 6px;
-    background-color: #f09104;
+    background-color: #000000;
     display: flex;
     width: 32px;
     height: 32px;
